@@ -1,6 +1,6 @@
 {
   "name": "@qiuzhanghua/xui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -37,9 +37,6 @@
       "require": "./dist/xui.umd.js",
       "types": "./dist/types/index.d.ts"
     }
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@qiuzhanghua"
   },
   "repository": {
     "type": "git",
